@@ -1,0 +1,501 @@
+﻿ID_Projet;Intitulé_Projet;Province;Secteur;Budget_DH;Statut;Taux_Avancement;Date_Début;Date_Fin_Prévue
+PRJ-2024000;Construction de un réseau d'eau potable;Préfecture de Marrakech;Agriculture Solidaire;3100664;Suspendu;63;2023-04-17;2024-01-21
+PRJ-2024001;Équipement de la route RP-9341;Province d'Al Haouz;Infrastructure Routière;28818656;En Cours;32;2022-02-01;2022-09-05
+PRJ-2024002;Réhabilitation de un système d'alimentation en eau potable (Douar 12);Préfecture de Marrakech;Eau & Assainissement;25028852;Suspendu;53;2023-03-23;2025-01-08
+PRJ-2024003;Réhabilitation de un barrage collinaire;Province de Safi;Tourisme & Artisanat;4255675;En Cours;81;2024-05-20;2026-05-12
+PRJ-2024004;Étude technique pour la route provinciale;Préfecture de Marrakech;Tourisme & Artisanat;2942006;En Étude;0;2022-07-20;2023-11-23
+PRJ-2024005;Équipement de une école communale;Province d'Essaouira;Agriculture Solidaire;550498;En Retard;21;2023-01-08;2024-02-14
+PRJ-2024006;Étude technique pour une école communale;Province de Rehamna;Tourisme & Artisanat;1049061;Suspendu;65;2023-01-19;2024-04-14
+PRJ-2024007;Réhabilitation de un système d'alimentation en eau potable (Douar 5);Province de Chichaoua;Eau & Assainissement;23313345;Appel d'Offres;0;2024-06-21;2025-10-28
+PRJ-2024008;Réhabilitation de un centre de santé;Province d'El Kelâa des Sraghna;Santé;2695742;En Retard;76;2024-01-01;2024-08-07
+PRJ-2024009;Réhabilitation de un centre culturel;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;2008909;En Étude;0;2022-11-22;2023-06-26
+PRJ-2024010;Réhabilitation de un centre culturel;Province de Safi;Énergie Renouvelable;3446384;En Étude;0;2023-11-29;2025-06-10
+PRJ-2024011;Réhabilitation de un collège de proximité;Province de Chichaoua;Éducation & Formation;4144708;Suspendu;45;2022-02-25;2022-08-20
+PRJ-2024012;Aménagement de un centre de santé;Province de Rehamna;Énergie Renouvelable;4548564;En Retard;28;2024-07-18;2025-12-13
+PRJ-2024013;Aménagement de un réseau d'eau potable;Préfecture de Marrakech;Tourisme & Artisanat;1800857;Achevé;100;2024-05-27;2024-12-06
+PRJ-2024014;Aménagement de un collège de proximité;Province de Youssoufia;Éducation & Formation;4596266;Achevé;100;2023-04-05;2024-11-14
+PRJ-2024015;Équipement de un barrage collinaire;Province de Chichaoua;Agriculture Solidaire;4660062;En Étude;0;2022-10-27;2024-02-12
+PRJ-2024016;Construction de la route RP-4862;Province d'Al Haouz;Infrastructure Routière;13229293;Appel d'Offres;0;2023-01-14;2024-06-02
+PRJ-2024017;Étude technique pour un collège de proximité;Province de Safi;Éducation & Formation;1908316;En Retard;29;2023-09-08;2025-04-13
+PRJ-2024018;Étude technique pour la route provinciale;Province de Chichaoua;Énergie Renouvelable;981616;Achevé;100;2022-06-06;2023-03-11
+PRJ-2024019;Équipement de un barrage collinaire;Préfecture de Marrakech;Énergie Renouvelable;1069681;Appel d'Offres;0;2023-06-02;2025-02-11
+PRJ-2024020;Construction de un barrage collinaire;Province d'Essaouira;Santé;1071639;Suspendu;34;2022-11-25;2024-06-12
+PRJ-2024021;Construction de un système d'alimentation en eau potable (Douar 28);Province de Chichaoua;Eau & Assainissement;8489170;En Étude;0;2024-09-06;2025-07-25
+PRJ-2024022;Aménagement de un centre de santé;Province de Youssoufia;Santé;2399660;En Cours;68;2024-06-30;2026-05-08
+PRJ-2024023;Étude technique pour un centre culturel;Province de Safi;Santé;4395014;En Cours;77;2024-01-10;2024-10-30
+PRJ-2024024;Réhabilitation de la route provinciale;Province d'Al Haouz;Santé;2043428;En Cours;31;2022-11-18;2024-03-19
+PRJ-2024025;Aménagement de un réseau d'eau potable;Province d'El Kelâa des Sraghna;Santé;4157478;Suspendu;37;2022-01-19;2022-05-14
+PRJ-2024026;Construction de un barrage collinaire;Province de Safi;Agriculture Solidaire;840701;Appel d'Offres;0;2022-12-24;2024-04-25
+PRJ-2024027;Équipement de un système d'alimentation en eau potable (Douar 41);Province de Safi;Eau & Assainissement;44408629;En Étude;0;2024-06-01;2024-11-10
+PRJ-2024028;Aménagement de la route RP-4113;Province de Youssoufia;Infrastructure Routière;15746313;Achevé;100;2022-02-07;2022-06-06
+PRJ-2024029;Réhabilitation de un collège de proximité;Province d'Al Haouz;Éducation & Formation;2590484;Achevé;100;2023-08-09;2024-01-31
+PRJ-2024030;Construction de un collège de proximité;Province de Rehamna;Éducation & Formation;3451295;Appel d'Offres;0;2024-02-18;2026-02-04
+PRJ-2024031;Construction de un collège de proximité;Province de Rehamna;Éducation & Formation;3034098;En Étude;0;2023-04-05;2024-04-30
+PRJ-2024032;Étude technique pour un système d'alimentation en eau potable (Douar 25);Province d'Essaouira;Eau & Assainissement;47665726;En Étude;0;2023-08-03;2025-04-12
+PRJ-2024033;Réhabilitation de la route provinciale;Province de Youssoufia;Tourisme & Artisanat;4743003;Appel d'Offres;0;2022-04-28;2022-10-14
+PRJ-2024034;Étude technique pour une école communale;Province de Rehamna;Tourisme & Artisanat;1531705;Appel d'Offres;0;2022-10-15;2023-04-24
+PRJ-2024035;Étude technique pour un réseau d'eau potable;Province de Safi;Agriculture Solidaire;685702;Suspendu;48;2024-03-12;2025-02-16
+PRJ-2024036;Aménagement de un collège de proximité;Province de Rehamna;Éducation & Formation;3850052;Achevé;100;2022-08-10;2023-05-22
+PRJ-2024037;Équipement de un réseau d'eau potable;Province de Safi;Énergie Renouvelable;2526644;Achevé;100;2023-10-13;2024-10-18
+PRJ-2024038;Construction de un système d'alimentation en eau potable (Douar 14);Province d'El Kelâa des Sraghna;Eau & Assainissement;48648113;En Étude;0;2022-08-24;2023-10-03
+PRJ-2024039;Réhabilitation de la route provinciale;Province de Youssoufia;Agriculture Solidaire;4442866;En Retard;27;2023-11-01;2025-08-10
+PRJ-2024040;Réhabilitation de la route provinciale;Province d'Al Haouz;Énergie Renouvelable;4559152;En Cours;55;2023-12-21;2025-09-22
+PRJ-2024041;Étude technique pour un système d'alimentation en eau potable (Douar 30);Province de Youssoufia;Eau & Assainissement;28885918;En Cours;38;2024-08-22;2025-04-14
+PRJ-2024042;Étude technique pour une école communale;Province de Chichaoua;Tourisme & Artisanat;3689522;Appel d'Offres;0;2023-07-17;2024-10-21
+PRJ-2024043;Construction de un collège de proximité;Province de Youssoufia;Éducation & Formation;2326968;En Cours;16;2022-11-20;2023-03-24
+PRJ-2024044;Étude technique pour un système d'alimentation en eau potable (Douar 29);Province d'Essaouira;Eau & Assainissement;5566525;Appel d'Offres;0;2024-02-13;2025-06-15
+PRJ-2024045;Équipement de un système d'alimentation en eau potable (Douar 41);Province d'Al Haouz;Eau & Assainissement;13770509;En Retard;74;2022-04-01;2023-12-28
+PRJ-2024046;Aménagement de une école communale;Province d'Essaouira;Tourisme & Artisanat;4447116;Achevé;100;2023-05-08;2025-04-28
+PRJ-2024047;Étude technique pour un centre culturel;Province d'Al Haouz;Énergie Renouvelable;1357427;Appel d'Offres;0;2022-10-09;2024-09-03
+PRJ-2024048;Étude technique pour un système d'alimentation en eau potable (Douar 19);Province d'Essaouira;Eau & Assainissement;21185305;Suspendu;70;2022-10-20;2023-10-08
+PRJ-2024049;Équipement de la route provinciale;Province de Safi;Santé;785582;Achevé;100;2022-02-16;2022-06-08
+PRJ-2024050;Étude technique pour un barrage collinaire;Province de Youssoufia;Agriculture Solidaire;1197475;En Retard;88;2023-09-10;2024-02-28
+PRJ-2024051;Construction de un collège de proximité;Province de Safi;Éducation & Formation;1485537;En Cours;32;2022-09-26;2024-06-28
+PRJ-2024052;Étude technique pour un système d'alimentation en eau potable (Douar 22);Préfecture de Marrakech;Eau & Assainissement;16746484;Appel d'Offres;0;2022-09-20;2023-11-16
+PRJ-2024053;Étude technique pour la route RP-9322;Province de Youssoufia;Infrastructure Routière;15812794;Suspendu;36;2022-05-24;2022-09-14
+PRJ-2024054;Équipement de un centre culturel;Province de Rehamna;Énergie Renouvelable;1243450;En Cours;91;2023-03-20;2024-05-22
+PRJ-2024055;Aménagement de un système d'alimentation en eau potable (Douar 35);Province de Chichaoua;Eau & Assainissement;37241322;En Étude;0;2024-02-16;2024-07-12
+PRJ-2024056;Étude technique pour la route RP-7030;Province d'El Kelâa des Sraghna;Infrastructure Routière;19979044;Appel d'Offres;0;2022-02-19;2023-08-26
+PRJ-2024057;Étude technique pour un centre de santé;Province de Chichaoua;Énergie Renouvelable;4523101;En Retard;77;2023-01-20;2024-09-14
+PRJ-2024058;Réhabilitation de un centre de santé;Province de Rehamna;Tourisme & Artisanat;3693938;En Cours;36;2024-03-24;2024-09-07
+PRJ-2024059;Aménagement de un système d'alimentation en eau potable (Douar 10);Province d'El Kelâa des Sraghna;Eau & Assainissement;24232185;En Étude;0;2022-02-01;2022-12-13
+PRJ-2024060;Équipement de une école communale;Préfecture de Marrakech;Agriculture Solidaire;1116213;En Étude;0;2022-05-29;2024-05-04
+PRJ-2024061;Étude technique pour une école communale;Préfecture de Marrakech;Santé;3666483;Suspendu;85;2022-02-17;2023-11-30
+PRJ-2024062;Étude technique pour un collège de proximité;Province de Youssoufia;Éducation & Formation;2905441;En Cours;60;2024-06-21;2025-05-07
+PRJ-2024063;Équipement de la route RP-9242;Province de Chichaoua;Infrastructure Routière;4644242;En Cours;74;2024-06-04;2024-09-15
+PRJ-2024064;Construction de un centre de santé;Province de Safi;Tourisme & Artisanat;517983;Suspendu;73;2024-03-06;2024-08-18
+PRJ-2024065;Construction de un réseau d'eau potable;Province d'Essaouira;Énergie Renouvelable;1488521;Suspendu;66;2023-12-26;2025-07-18
+PRJ-2024066;Étude technique pour la route provinciale;Province de Chichaoua;Tourisme & Artisanat;2485959;Achevé;100;2023-12-30;2025-03-12
+PRJ-2024067;Étude technique pour un centre de santé;Province d'El Kelâa des Sraghna;Énergie Renouvelable;1010896;Achevé;100;2023-08-29;2024-06-14
+PRJ-2024068;Réhabilitation de un système d'alimentation en eau potable (Douar 19);Province de Chichaoua;Eau & Assainissement;7189314;En Retard;41;2023-11-20;2024-03-26
+PRJ-2024069;Construction de un réseau d'eau potable;Préfecture de Marrakech;Agriculture Solidaire;3387815;En Retard;85;2023-11-01;2025-08-28
+PRJ-2024070;Étude technique pour un centre culturel;Province d'Essaouira;Énergie Renouvelable;775314;Appel d'Offres;0;2024-04-29;2025-08-05
+PRJ-2024071;Équipement de la route RP-6678;Province de Rehamna;Infrastructure Routière;41288776;Achevé;100;2022-08-27;2023-03-31
+PRJ-2024072;Étude technique pour un collège de proximité;Province d'Al Haouz;Éducation & Formation;3064912;En Cours;62;2023-11-06;2025-07-04
+PRJ-2024073;Construction de un collège de proximité;Province de Safi;Éducation & Formation;4327279;Suspendu;60;2022-03-03;2022-12-27
+PRJ-2024074;Étude technique pour un réseau d'eau potable;Province de Chichaoua;Agriculture Solidaire;2908435;Achevé;100;2023-12-25;2025-06-05
+PRJ-2024075;Équipement de un réseau d'eau potable;Préfecture de Marrakech;Tourisme & Artisanat;692200;En Étude;0;2023-10-14;2024-07-09
+PRJ-2024076;Équipement de un centre culturel;Province d'Al Haouz;Santé;1591932;Suspendu;78;2024-01-27;2025-01-13
+PRJ-2024077;Réhabilitation de un barrage collinaire;Province d'Al Haouz;Énergie Renouvelable;2355083;En Cours;42;2024-08-01;2026-07-08
+PRJ-2024078;Construction de la route provinciale;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;1492395;Appel d'Offres;0;2022-03-23;2023-11-30
+PRJ-2024079;Construction de un système d'alimentation en eau potable (Douar 32);Préfecture de Marrakech;Eau & Assainissement;12594387;Achevé;100;2024-02-12;2025-12-27
+PRJ-2024080;Réhabilitation de un centre culturel;Province de Rehamna;Tourisme & Artisanat;3477948;En Cours;74;2023-01-15;2023-07-29
+PRJ-2024081;Étude technique pour la route RP-8621;Province de Chichaoua;Infrastructure Routière;24514217;En Retard;73;2023-08-25;2024-02-11
+PRJ-2024082;Équipement de une école communale;Province de Rehamna;Énergie Renouvelable;566545;En Étude;0;2023-10-01;2025-08-29
+PRJ-2024083;Étude technique pour un centre de santé;Province d'Al Haouz;Tourisme & Artisanat;3249585;En Étude;0;2022-04-02;2023-04-17
+PRJ-2024084;Équipement de une école communale;Province de Safi;Agriculture Solidaire;2950218;Suspendu;42;2024-03-09;2024-06-29
+PRJ-2024085;Équipement de la route provinciale;Province d'Essaouira;Tourisme & Artisanat;2435787;En Cours;77;2022-01-13;2022-10-16
+PRJ-2024086;Étude technique pour un centre culturel;Province d'El Kelâa des Sraghna;Agriculture Solidaire;4825557;Suspendu;65;2024-03-26;2025-02-09
+PRJ-2024087;Réhabilitation de un réseau d'eau potable;Province d'Al Haouz;Tourisme & Artisanat;895619;Achevé;100;2024-04-05;2025-12-16
+PRJ-2024088;Construction de la route RP-1740;Province de Rehamna;Infrastructure Routière;6293328;En Étude;0;2024-02-16;2025-05-19
+PRJ-2024089;Étude technique pour un centre culturel;Province de Safi;Agriculture Solidaire;2093349;Appel d'Offres;0;2022-10-02;2023-11-06
+PRJ-2024090;Étude technique pour un collège de proximité;Province de Chichaoua;Éducation & Formation;3535399;En Cours;74;2023-07-01;2024-08-29
+PRJ-2024091;Équipement de la route RP-9693;Province de Youssoufia;Infrastructure Routière;25956746;Achevé;100;2023-07-23;2024-03-27
+PRJ-2024092;Aménagement de un système d'alimentation en eau potable (Douar 44);Province d'Al Haouz;Eau & Assainissement;8306321;Achevé;100;2024-06-05;2026-03-18
+PRJ-2024093;Construction de un système d'alimentation en eau potable (Douar 2);Province d'Essaouira;Eau & Assainissement;16805370;En Étude;0;2023-06-25;2024-12-03
+PRJ-2024094;Étude technique pour une école communale;Préfecture de Marrakech;Tourisme & Artisanat;3910693;Achevé;100;2022-01-09;2023-05-09
+PRJ-2024095;Construction de un système d'alimentation en eau potable (Douar 29);Province de Chichaoua;Eau & Assainissement;4716984;En Retard;68;2022-05-09;2023-07-28
+PRJ-2024096;Construction de la route provinciale;Province de Youssoufia;Santé;1158834;Suspendu;78;2022-10-25;2023-10-20
+PRJ-2024097;Réhabilitation de un centre culturel;Province d'Al Haouz;Tourisme & Artisanat;648557;Appel d'Offres;0;2024-02-29;2024-10-02
+PRJ-2024098;Aménagement de la route RP-2996;Province de Chichaoua;Infrastructure Routière;11688749;En Étude;0;2023-02-17;2023-06-10
+PRJ-2024099;Équipement de un réseau d'eau potable;Province d'El Kelâa des Sraghna;Agriculture Solidaire;3008281;Appel d'Offres;0;2023-06-19;2025-04-30
+PRJ-2024100;Réhabilitation de un collège de proximité;Province de Chichaoua;Éducation & Formation;3407456;En Retard;77;2022-06-26;2023-01-28
+PRJ-2024101;Équipement de un barrage collinaire;Province de Rehamna;Santé;2184716;En Retard;43;2023-01-26;2024-05-25
+PRJ-2024102;Réhabilitation de un système d'alimentation en eau potable (Douar 19);Province d'Al Haouz;Eau & Assainissement;12713419;En Retard;66;2024-09-10;2026-01-15
+PRJ-2024103;Aménagement de un système d'alimentation en eau potable (Douar 16);Province d'El Kelâa des Sraghna;Eau & Assainissement;16658526;Suspendu;29;2024-08-01;2026-02-24
+PRJ-2024104;Étude technique pour la route RP-4443;Préfecture de Marrakech;Infrastructure Routière;7241830;Achevé;100;2022-02-06;2023-07-02
+PRJ-2024105;Aménagement de un réseau d'eau potable;Province d'Al Haouz;Agriculture Solidaire;2595483;Achevé;100;2022-01-18;2023-01-09
+PRJ-2024106;Réhabilitation de un collège de proximité;Province d'Al Haouz;Éducation & Formation;4037862;En Étude;0;2022-10-27;2023-07-15
+PRJ-2024107;Réhabilitation de un système d'alimentation en eau potable (Douar 32);Province de Youssoufia;Eau & Assainissement;21606263;En Retard;94;2022-03-06;2023-11-07
+PRJ-2024108;Équipement de la route provinciale;Province d'El Kelâa des Sraghna;Agriculture Solidaire;4435281;En Cours;25;2022-12-30;2023-08-24
+PRJ-2024109;Équipement de un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;4324479;En Retard;43;2022-11-02;2024-04-26
+PRJ-2024110;Construction de la route provinciale;Préfecture de Marrakech;Agriculture Solidaire;2214619;Achevé;100;2022-09-03;2024-08-29
+PRJ-2024111;Étude technique pour un réseau d'eau potable;Province de Chichaoua;Agriculture Solidaire;4342917;Achevé;100;2024-07-21;2026-02-08
+PRJ-2024112;Réhabilitation de une école communale;Province d'Al Haouz;Santé;1436978;Appel d'Offres;0;2023-09-22;2024-09-02
+PRJ-2024113;Équipement de la route RP-8027;Province de Safi;Infrastructure Routière;33133057;Suspendu;95;2022-03-17;2022-06-17
+PRJ-2024114;Aménagement de la route RP-8553;Province d'Essaouira;Infrastructure Routière;30875891;Suspendu;26;2024-08-04;2025-01-25
+PRJ-2024115;Aménagement de un centre culturel;Province de Safi;Tourisme & Artisanat;520466;En Cours;76;2023-10-19;2025-06-23
+PRJ-2024116;Équipement de un centre de santé;Province d'El Kelâa des Sraghna;Santé;3533735;En Retard;42;2023-10-08;2024-01-09
+PRJ-2024117;Aménagement de un système d'alimentation en eau potable (Douar 6);Préfecture de Marrakech;Eau & Assainissement;26088891;Achevé;100;2022-11-05;2024-11-03
+PRJ-2024118;Aménagement de un réseau d'eau potable;Province d'Al Haouz;Énergie Renouvelable;2137801;En Cours;16;2023-03-05;2024-08-09
+PRJ-2024119;Étude technique pour un barrage collinaire;Province de Safi;Tourisme & Artisanat;4166238;Suspendu;12;2024-05-24;2025-02-01
+PRJ-2024120;Aménagement de un centre de santé;Province de Youssoufia;Santé;2987477;Suspendu;14;2024-02-17;2024-09-28
+PRJ-2024121;Équipement de un centre culturel;Province de Rehamna;Énergie Renouvelable;2245091;Achevé;100;2024-06-17;2025-06-17
+PRJ-2024122;Réhabilitation de un centre culturel;Province de Safi;Agriculture Solidaire;733305;Appel d'Offres;0;2023-01-11;2024-11-17
+PRJ-2024123;Équipement de un collège de proximité;Province d'Essaouira;Éducation & Formation;3023255;Appel d'Offres;0;2023-12-08;2025-10-11
+PRJ-2024124;Réhabilitation de une école communale;Province d'Essaouira;Agriculture Solidaire;3629602;En Retard;28;2024-01-14;2024-12-06
+PRJ-2024125;Construction de un barrage collinaire;Province d'Essaouira;Santé;2624330;Suspendu;85;2022-06-10;2023-12-20
+PRJ-2024126;Réhabilitation de la route provinciale;Province de Safi;Santé;1300966;En Cours;78;2022-11-13;2024-01-24
+PRJ-2024127;Réhabilitation de une école communale;Province de Rehamna;Tourisme & Artisanat;1464638;En Retard;63;2023-01-24;2023-08-13
+PRJ-2024128;Réhabilitation de la route RP-7320;Préfecture de Marrakech;Infrastructure Routière;46730531;En Cours;51;2022-10-26;2023-08-11
+PRJ-2024129;Équipement de la route provinciale;Province de Rehamna;Agriculture Solidaire;4074480;Appel d'Offres;0;2022-04-09;2022-10-06
+PRJ-2024130;Réhabilitation de un barrage collinaire;Province d'Al Haouz;Tourisme & Artisanat;1761257;Appel d'Offres;0;2022-08-10;2023-10-23
+PRJ-2024131;Équipement de un centre de santé;Préfecture de Marrakech;Santé;4768996;Achevé;100;2022-07-31;2023-02-25
+PRJ-2024132;Construction de la route provinciale;Province de Safi;Santé;2582891;En Retard;47;2024-07-08;2024-12-11
+PRJ-2024133;Construction de un collège de proximité;Province de Rehamna;Éducation & Formation;1597783;En Étude;0;2024-07-06;2025-02-04
+PRJ-2024134;Équipement de la route provinciale;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;1135051;Achevé;100;2022-03-25;2024-03-22
+PRJ-2024135;Construction de un centre de santé;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;2899835;En Cours;52;2023-07-01;2025-06-18
+PRJ-2024136;Étude technique pour un centre culturel;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;2621429;En Retard;24;2024-05-03;2025-10-13
+PRJ-2024137;Équipement de un barrage collinaire;Province de Youssoufia;Énergie Renouvelable;896742;En Retard;73;2023-09-22;2025-03-16
+PRJ-2024138;Construction de la route RP-3220;Province d'El Kelâa des Sraghna;Infrastructure Routière;26436188;En Cours;32;2023-03-19;2024-07-28
+PRJ-2024139;Étude technique pour la route provinciale;Province de Safi;Tourisme & Artisanat;4230125;Appel d'Offres;0;2024-02-20;2025-12-24
+PRJ-2024140;Équipement de un système d'alimentation en eau potable (Douar 7);Province d'El Kelâa des Sraghna;Eau & Assainissement;48610692;Achevé;100;2022-09-02;2023-11-12
+PRJ-2024141;Équipement de un réseau d'eau potable;Province de Rehamna;Énergie Renouvelable;3187001;En Retard;80;2022-03-22;2023-12-22
+PRJ-2024142;Construction de un collège de proximité;Province d'Essaouira;Éducation & Formation;3326888;Achevé;100;2022-04-26;2023-10-30
+PRJ-2024143;Réhabilitation de une école communale;Province de Safi;Énergie Renouvelable;2662684;En Retard;83;2024-08-22;2025-02-13
+PRJ-2024144;Étude technique pour un collège de proximité;Province de Youssoufia;Éducation & Formation;4103773;Suspendu;70;2022-01-18;2023-04-14
+PRJ-2024145;Étude technique pour la route RP-3227;Province d'Al Haouz;Infrastructure Routière;8315678;Appel d'Offres;0;2022-09-22;2024-01-15
+PRJ-2024146;Construction de une école communale;Province d'Al Haouz;Agriculture Solidaire;1356412;Achevé;100;2022-03-30;2022-11-23
+PRJ-2024147;Aménagement de la route RP-8512;Province de Rehamna;Infrastructure Routière;46752965;En Étude;0;2022-09-01;2023-02-18
+PRJ-2024148;Étude technique pour un système d'alimentation en eau potable (Douar 9);Province de Chichaoua;Eau & Assainissement;3382739;Achevé;100;2022-05-14;2024-01-25
+PRJ-2024149;Aménagement de un centre culturel;Province d'Essaouira;Santé;2518689;Suspendu;89;2022-06-03;2024-03-27
+PRJ-2024150;Étude technique pour une école communale;Préfecture de Marrakech;Tourisme & Artisanat;1494575;Suspendu;27;2024-07-04;2025-05-31
+PRJ-2024151;Aménagement de un barrage collinaire;Province d'Al Haouz;Santé;622588;Appel d'Offres;0;2022-12-18;2024-08-12
+PRJ-2024152;Construction de la route RP-4833;Province d'Essaouira;Infrastructure Routière;23646858;Suspendu;76;2022-04-02;2022-11-24
+PRJ-2024153;Aménagement de la route RP-4488;Préfecture de Marrakech;Infrastructure Routière;20022467;En Retard;94;2022-09-16;2024-04-23
+PRJ-2024154;Réhabilitation de la route RP-6468;Province de Rehamna;Infrastructure Routière;9974739;En Retard;95;2024-03-13;2024-10-13
+PRJ-2024155;Équipement de un centre de santé;Province de Rehamna;Santé;714627;En Étude;0;2023-10-14;2025-07-31
+PRJ-2024156;Équipement de une école communale;Province d'Essaouira;Agriculture Solidaire;2346119;En Retard;39;2023-09-08;2025-05-20
+PRJ-2024157;Construction de une école communale;Province de Youssoufia;Santé;2109963;Achevé;100;2024-04-09;2025-02-24
+PRJ-2024158;Équipement de une école communale;Province d'Essaouira;Tourisme & Artisanat;3676827;Achevé;100;2022-05-31;2023-03-07
+PRJ-2024159;Équipement de un centre culturel;Province d'Al Haouz;Agriculture Solidaire;1182355;En Retard;64;2022-06-06;2023-06-20
+PRJ-2024160;Construction de un collège de proximité;Province de Rehamna;Éducation & Formation;4750132;Suspendu;11;2023-05-07;2024-09-10
+PRJ-2024161;Réhabilitation de un collège de proximité;Province de Youssoufia;Éducation & Formation;737438;En Étude;0;2023-04-21;2024-07-15
+PRJ-2024162;Réhabilitation de un collège de proximité;Préfecture de Marrakech;Éducation & Formation;1001131;Appel d'Offres;0;2023-04-03;2024-01-02
+PRJ-2024163;Construction de un réseau d'eau potable;Province de Chichaoua;Tourisme & Artisanat;4300423;En Étude;0;2024-01-26;2024-06-05
+PRJ-2024164;Construction de la route provinciale;Province de Safi;Agriculture Solidaire;2629285;En Cours;77;2024-02-08;2025-02-26
+PRJ-2024165;Réhabilitation de un centre culturel;Province de Rehamna;Énergie Renouvelable;4723744;Appel d'Offres;0;2023-05-09;2024-04-09
+PRJ-2024166;Étude technique pour une école communale;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;3994460;Appel d'Offres;0;2022-07-06;2023-07-22
+PRJ-2024167;Construction de un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;2935492;En Retard;37;2022-01-31;2023-09-14
+PRJ-2024168;Aménagement de un système d'alimentation en eau potable (Douar 4);Province de Youssoufia;Eau & Assainissement;2947659;Achevé;100;2023-09-22;2024-06-07
+PRJ-2024169;Étude technique pour un collège de proximité;Province d'Al Haouz;Éducation & Formation;4110744;Achevé;100;2023-04-03;2024-10-31
+PRJ-2024170;Construction de un collège de proximité;Province de Rehamna;Éducation & Formation;3716456;Appel d'Offres;0;2023-01-01;2023-08-26
+PRJ-2024171;Aménagement de une école communale;Province de Safi;Tourisme & Artisanat;1938679;Appel d'Offres;0;2023-01-22;2024-07-24
+PRJ-2024172;Construction de un réseau d'eau potable;Province de Youssoufia;Santé;1476708;En Cours;91;2023-11-09;2024-11-12
+PRJ-2024173;Construction de un système d'alimentation en eau potable (Douar 32);Province de Chichaoua;Eau & Assainissement;43447711;Achevé;100;2022-10-27;2023-07-21
+PRJ-2024174;Aménagement de un réseau d'eau potable;Province d'El Kelâa des Sraghna;Énergie Renouvelable;721029;En Étude;0;2023-01-02;2024-07-24
+PRJ-2024175;Équipement de une école communale;Préfecture de Marrakech;Tourisme & Artisanat;787014;En Étude;0;2024-09-26;2026-01-08
+PRJ-2024176;Réhabilitation de un collège de proximité;Province de Safi;Éducation & Formation;1522386;Appel d'Offres;0;2022-03-02;2023-03-23
+PRJ-2024177;Construction de un réseau d'eau potable;Province de Rehamna;Énergie Renouvelable;4701728;Achevé;100;2023-09-30;2025-03-10
+PRJ-2024178;Équipement de un barrage collinaire;Province d'Essaouira;Agriculture Solidaire;3460024;Achevé;100;2022-04-09;2023-02-15
+PRJ-2024179;Étude technique pour un barrage collinaire;Province de Rehamna;Tourisme & Artisanat;2766802;Appel d'Offres;0;2022-04-02;2023-04-27
+PRJ-2024180;Équipement de la route RP-2620;Préfecture de Marrakech;Infrastructure Routière;27567992;En Cours;93;2023-01-16;2024-01-31
+PRJ-2024181;Construction de un centre de santé;Préfecture de Marrakech;Tourisme & Artisanat;4567175;Achevé;100;2022-11-14;2023-10-01
+PRJ-2024182;Équipement de une école communale;Province de Safi;Tourisme & Artisanat;2855620;Suspendu;74;2022-05-17;2023-09-30
+PRJ-2024183;Aménagement de une école communale;Province d'Al Haouz;Agriculture Solidaire;4424311;En Étude;0;2023-03-30;2024-03-19
+PRJ-2024184;Étude technique pour une école communale;Préfecture de Marrakech;Énergie Renouvelable;2020053;Appel d'Offres;0;2023-05-09;2025-01-23
+PRJ-2024185;Aménagement de la route provinciale;Province d'El Kelâa des Sraghna;Énergie Renouvelable;4309439;En Retard;91;2023-05-19;2024-04-14
+PRJ-2024186;Aménagement de un barrage collinaire;Province de Safi;Énergie Renouvelable;3145646;En Étude;0;2022-07-25;2023-11-12
+PRJ-2024187;Étude technique pour un barrage collinaire;Province d'Essaouira;Santé;1195073;Achevé;100;2022-05-01;2022-12-23
+PRJ-2024188;Équipement de une école communale;Province de Safi;Énergie Renouvelable;2674472;Appel d'Offres;0;2024-09-01;2025-07-25
+PRJ-2024189;Réhabilitation de la route provinciale;Province d'Al Haouz;Agriculture Solidaire;2371394;En Retard;80;2022-11-16;2023-09-13
+PRJ-2024190;Aménagement de un système d'alimentation en eau potable (Douar 9);Province d'El Kelâa des Sraghna;Eau & Assainissement;39471437;Suspendu;52;2022-05-27;2023-03-19
+PRJ-2024191;Équipement de un système d'alimentation en eau potable (Douar 27);Préfecture de Marrakech;Eau & Assainissement;5506646;En Cours;71;2022-03-12;2022-11-10
+PRJ-2024192;Construction de une école communale;Province d'Al Haouz;Santé;620733;Achevé;100;2023-08-04;2024-12-23
+PRJ-2024193;Réhabilitation de une école communale;Province de Safi;Santé;599015;Achevé;100;2022-10-06;2023-11-21
+PRJ-2024194;Équipement de un centre de santé;Préfecture de Marrakech;Agriculture Solidaire;1000974;En Cours;57;2023-10-26;2024-04-05
+PRJ-2024195;Étude technique pour une école communale;Province d'Essaouira;Santé;2440118;En Retard;20;2023-05-31;2025-04-24
+PRJ-2024196;Étude technique pour un centre culturel;Province de Safi;Tourisme & Artisanat;4280275;En Étude;0;2023-05-21;2023-12-13
+PRJ-2024197;Aménagement de un collège de proximité;Province d'Essaouira;Éducation & Formation;3925577;Achevé;100;2024-06-22;2026-05-28
+PRJ-2024198;Équipement de la route RP-3752;Province de Chichaoua;Infrastructure Routière;31317591;Appel d'Offres;0;2023-07-28;2023-12-08
+PRJ-2024199;Équipement de une école communale;Province de Safi;Énergie Renouvelable;3896195;Achevé;100;2024-01-21;2025-11-03
+PRJ-2024200;Aménagement de la route provinciale;Province de Chichaoua;Agriculture Solidaire;1679214;En Étude;0;2023-05-09;2025-02-21
+PRJ-2024201;Réhabilitation de un système d'alimentation en eau potable (Douar 23);Province d'El Kelâa des Sraghna;Eau & Assainissement;20016738;Appel d'Offres;0;2024-04-09;2025-04-07
+PRJ-2024202;Construction de un centre culturel;Province de Safi;Agriculture Solidaire;4428493;Suspendu;82;2023-05-28;2023-10-23
+PRJ-2024203;Aménagement de la route provinciale;Province de Chichaoua;Tourisme & Artisanat;2132572;Suspendu;74;2023-12-19;2024-08-26
+PRJ-2024204;Équipement de un collège de proximité;Province de Youssoufia;Éducation & Formation;4004250;Appel d'Offres;0;2023-11-10;2025-08-04
+PRJ-2024205;Construction de un centre culturel;Province d'Essaouira;Tourisme & Artisanat;2730113;En Retard;28;2022-09-14;2023-05-13
+PRJ-2024206;Étude technique pour un collège de proximité;Province de Youssoufia;Éducation & Formation;3809024;En Cours;36;2022-06-01;2022-12-12
+PRJ-2024207;Équipement de un centre culturel;Préfecture de Marrakech;Agriculture Solidaire;4965604;Achevé;100;2024-03-25;2025-11-17
+PRJ-2024208;Réhabilitation de un centre culturel;Province d'Al Haouz;Tourisme & Artisanat;3564460;Suspendu;32;2024-01-07;2025-01-12
+PRJ-2024209;Réhabilitation de un centre de santé;Province de Chichaoua;Tourisme & Artisanat;650466;En Cours;39;2023-02-14;2024-01-18
+PRJ-2024210;Aménagement de un réseau d'eau potable;Province de Rehamna;Tourisme & Artisanat;1589038;Suspendu;58;2023-03-18;2025-01-05
+PRJ-2024211;Aménagement de un réseau d'eau potable;Province d'Al Haouz;Tourisme & Artisanat;2577182;Achevé;100;2022-06-12;2024-04-04
+PRJ-2024212;Construction de un barrage collinaire;Province d'Al Haouz;Santé;3568204;En Cours;23;2023-12-31;2024-04-19
+PRJ-2024213;Étude technique pour une école communale;Préfecture de Marrakech;Tourisme & Artisanat;2458006;Achevé;100;2022-07-15;2022-11-26
+PRJ-2024214;Réhabilitation de une école communale;Province de Rehamna;Tourisme & Artisanat;2711936;En Retard;13;2024-01-24;2025-02-09
+PRJ-2024215;Aménagement de la route provinciale;Préfecture de Marrakech;Santé;3067904;En Retard;51;2024-06-03;2024-09-14
+PRJ-2024216;Aménagement de un centre de santé;Province d'Al Haouz;Énergie Renouvelable;3328066;Achevé;100;2023-09-29;2024-07-16
+PRJ-2024217;Réhabilitation de un centre culturel;Province d'Essaouira;Tourisme & Artisanat;4597551;En Cours;24;2024-08-16;2026-05-28
+PRJ-2024218;Aménagement de un centre de santé;Province d'Al Haouz;Énergie Renouvelable;4620978;En Retard;64;2024-06-17;2025-12-12
+PRJ-2024219;Étude technique pour un centre de santé;Province d'El Kelâa des Sraghna;Santé;1756326;En Étude;0;2024-07-09;2025-02-19
+PRJ-2024220;Réhabilitation de la route RP-9960;Province de Safi;Infrastructure Routière;45730679;En Cours;62;2023-10-06;2024-02-22
+PRJ-2024221;Réhabilitation de la route RP-1354;Province d'El Kelâa des Sraghna;Infrastructure Routière;6253223;En Retard;68;2024-04-29;2025-11-21
+PRJ-2024222;Réhabilitation de la route RP-3754;Préfecture de Marrakech;Infrastructure Routière;27930134;En Retard;19;2023-10-30;2024-05-30
+PRJ-2024223;Aménagement de un centre de santé;Province d'El Kelâa des Sraghna;Énergie Renouvelable;1689046;En Étude;0;2022-11-06;2023-11-03
+PRJ-2024224;Étude technique pour un centre culturel;Province d'El Kelâa des Sraghna;Énergie Renouvelable;2438666;Achevé;100;2022-08-13;2023-05-07
+PRJ-2024225;Réhabilitation de une école communale;Province de Safi;Santé;1623837;Suspendu;31;2022-08-19;2024-08-13
+PRJ-2024226;Aménagement de la route provinciale;Province de Rehamna;Agriculture Solidaire;1562886;En Cours;87;2023-07-01;2024-04-04
+PRJ-2024227;Équipement de la route RP-6620;Province d'El Kelâa des Sraghna;Infrastructure Routière;19635461;En Cours;64;2023-04-14;2024-06-11
+PRJ-2024228;Aménagement de la route provinciale;Préfecture de Marrakech;Énergie Renouvelable;4723874;En Retard;36;2022-06-19;2023-02-20
+PRJ-2024229;Réhabilitation de un barrage collinaire;Province de Safi;Tourisme & Artisanat;1990879;Achevé;100;2023-02-02;2024-07-10
+PRJ-2024230;Aménagement de un centre de santé;Province d'Al Haouz;Énergie Renouvelable;2684283;En Étude;0;2024-01-19;2025-03-17
+PRJ-2024231;Équipement de un centre de santé;Province d'El Kelâa des Sraghna;Énergie Renouvelable;2579453;Achevé;100;2024-06-08;2026-05-13
+PRJ-2024232;Étude technique pour un système d'alimentation en eau potable (Douar 2);Province d'Essaouira;Eau & Assainissement;2929840;Appel d'Offres;0;2024-09-03;2025-03-06
+PRJ-2024233;Aménagement de un centre de santé;Province d'Essaouira;Santé;1157717;En Étude;0;2023-05-20;2024-01-18
+PRJ-2024234;Aménagement de la route provinciale;Province de Chichaoua;Santé;4515839;En Étude;0;2023-01-21;2023-09-17
+PRJ-2024235;Réhabilitation de la route RP-1412;Préfecture de Marrakech;Infrastructure Routière;30886197;Suspendu;17;2024-05-02;2025-12-30
+PRJ-2024236;Étude technique pour un réseau d'eau potable;Préfecture de Marrakech;Tourisme & Artisanat;1668596;Appel d'Offres;0;2022-10-22;2024-01-29
+PRJ-2024237;Réhabilitation de une école communale;Province de Safi;Agriculture Solidaire;4588468;Suspendu;43;2024-07-16;2026-03-22
+PRJ-2024238;Aménagement de une école communale;Province de Youssoufia;Énergie Renouvelable;2758423;En Cours;11;2022-01-01;2022-05-22
+PRJ-2024239;Réhabilitation de un centre culturel;Province d'Essaouira;Santé;2767780;En Retard;66;2022-03-06;2023-03-21
+PRJ-2024240;Équipement de un collège de proximité;Province de Safi;Éducation & Formation;4038108;Appel d'Offres;0;2022-05-04;2024-02-17
+PRJ-2024241;Construction de un réseau d'eau potable;Province d'El Kelâa des Sraghna;Agriculture Solidaire;2509980;En Retard;69;2024-04-06;2026-03-08
+PRJ-2024242;Réhabilitation de un système d'alimentation en eau potable (Douar 32);Province de Youssoufia;Eau & Assainissement;20327936;En Retard;57;2022-06-12;2023-09-08
+PRJ-2024243;Équipement de la route RP-1609;Préfecture de Marrakech;Infrastructure Routière;42514730;Suspendu;32;2022-09-10;2022-12-23
+PRJ-2024244;Aménagement de un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;2450941;Appel d'Offres;0;2024-04-24;2026-03-26
+PRJ-2024245;Étude technique pour un barrage collinaire;Province d'Al Haouz;Énergie Renouvelable;3061077;En Retard;64;2024-08-09;2025-10-02
+PRJ-2024246;Aménagement de un collège de proximité;Province d'Al Haouz;Éducation & Formation;1398457;En Cours;18;2024-03-31;2024-11-29
+PRJ-2024247;Étude technique pour un collège de proximité;Province d'Al Haouz;Éducation & Formation;4538021;En Cours;36;2022-01-24;2023-07-29
+PRJ-2024248;Réhabilitation de un collège de proximité;Province d'Al Haouz;Éducation & Formation;1828133;En Cours;58;2023-08-13;2024-11-13
+PRJ-2024249;Réhabilitation de un réseau d'eau potable;Province de Chichaoua;Énergie Renouvelable;1264038;Achevé;100;2022-07-22;2023-05-07
+PRJ-2024250;Étude technique pour la route provinciale;Province de Chichaoua;Énergie Renouvelable;2394768;En Cours;26;2023-05-08;2025-02-15
+PRJ-2024251;Réhabilitation de un système d'alimentation en eau potable (Douar 38);Province d'Essaouira;Eau & Assainissement;17855547;En Retard;43;2023-08-22;2025-06-15
+PRJ-2024252;Construction de un collège de proximité;Province d'Al Haouz;Éducation & Formation;3057312;En Étude;0;2022-08-16;2023-03-26
+PRJ-2024253;Aménagement de un réseau d'eau potable;Province d'Al Haouz;Énergie Renouvelable;3490647;En Cours;18;2023-12-14;2024-09-25
+PRJ-2024254;Réhabilitation de la route provinciale;Préfecture de Marrakech;Énergie Renouvelable;2248682;Suspendu;42;2022-09-11;2023-07-30
+PRJ-2024255;Construction de une école communale;Préfecture de Marrakech;Énergie Renouvelable;2585166;Suspendu;49;2022-10-19;2024-01-19
+PRJ-2024256;Construction de la route RP-5494;Préfecture de Marrakech;Infrastructure Routière;10789263;En Cours;79;2023-07-07;2024-02-21
+PRJ-2024257;Équipement de un centre culturel;Province d'Al Haouz;Énergie Renouvelable;3031817;Suspendu;79;2022-04-18;2023-08-03
+PRJ-2024258;Construction de la route RP-9280;Province de Chichaoua;Infrastructure Routière;40201395;Appel d'Offres;0;2024-09-08;2025-07-18
+PRJ-2024259;Étude technique pour un barrage collinaire;Province de Chichaoua;Agriculture Solidaire;4820035;En Cours;24;2024-08-05;2025-02-02
+PRJ-2024260;Étude technique pour un centre culturel;Province d'Al Haouz;Santé;2522482;Suspendu;43;2022-10-08;2023-12-26
+PRJ-2024261;Réhabilitation de la route RP-3902;Préfecture de Marrakech;Infrastructure Routière;32083462;Achevé;100;2023-03-19;2024-01-25
+PRJ-2024262;Aménagement de la route RP-2836;Province d'El Kelâa des Sraghna;Infrastructure Routière;31865207;Suspendu;54;2024-02-28;2025-11-24
+PRJ-2024263;Étude technique pour un réseau d'eau potable;Province de Chichaoua;Santé;1494819;En Retard;91;2022-03-15;2024-02-01
+PRJ-2024264;Construction de une école communale;Province d'Essaouira;Tourisme & Artisanat;3596460;Achevé;100;2024-03-17;2024-06-30
+PRJ-2024265;Réhabilitation de un système d'alimentation en eau potable (Douar 26);Province de Chichaoua;Eau & Assainissement;10483567;Appel d'Offres;0;2024-07-07;2025-11-22
+PRJ-2024266;Étude technique pour un réseau d'eau potable;Province de Chichaoua;Énergie Renouvelable;2156460;Achevé;100;2024-05-16;2026-02-23
+PRJ-2024267;Réhabilitation de un système d'alimentation en eau potable (Douar 32);Province de Chichaoua;Eau & Assainissement;47943276;Achevé;100;2022-12-14;2024-07-04
+PRJ-2024268;Construction de un centre culturel;Province d'Essaouira;Tourisme & Artisanat;1772520;Appel d'Offres;0;2023-03-24;2024-07-18
+PRJ-2024269;Étude technique pour un collège de proximité;Province de Chichaoua;Éducation & Formation;1588524;Appel d'Offres;0;2022-02-03;2022-06-09
+PRJ-2024270;Équipement de la route RP-5912;Province de Youssoufia;Infrastructure Routière;17989694;En Cours;30;2022-12-05;2024-10-11
+PRJ-2024271;Étude technique pour la route provinciale;Province de Youssoufia;Tourisme & Artisanat;1583168;En Retard;48;2023-03-29;2023-10-23
+PRJ-2024272;Construction de un collège de proximité;Province de Youssoufia;Éducation & Formation;3266639;En Étude;0;2023-06-13;2025-05-03
+PRJ-2024273;Réhabilitation de un réseau d'eau potable;Province d'Al Haouz;Tourisme & Artisanat;2733876;Achevé;100;2022-07-16;2023-06-10
+PRJ-2024274;Réhabilitation de la route provinciale;Province d'Al Haouz;Énergie Renouvelable;3235896;Appel d'Offres;0;2022-01-31;2023-02-23
+PRJ-2024275;Aménagement de une école communale;Province de Youssoufia;Énergie Renouvelable;662734;Appel d'Offres;0;2024-01-25;2025-07-12
+PRJ-2024276;Étude technique pour un centre culturel;Province de Chichaoua;Énergie Renouvelable;2351127;Suspendu;35;2023-01-31;2024-09-21
+PRJ-2024277;Aménagement de un collège de proximité;Province de Youssoufia;Éducation & Formation;527157;En Étude;0;2022-02-01;2023-09-17
+PRJ-2024278;Équipement de un barrage collinaire;Province d'El Kelâa des Sraghna;Énergie Renouvelable;4475072;En Cours;21;2024-04-26;2025-11-24
+PRJ-2024279;Aménagement de un réseau d'eau potable;Province de Rehamna;Tourisme & Artisanat;4193859;En Retard;15;2023-05-14;2024-03-15
+PRJ-2024280;Construction de un réseau d'eau potable;Province de Safi;Énergie Renouvelable;988513;En Retard;81;2023-10-06;2024-12-16
+PRJ-2024281;Réhabilitation de un centre culturel;Province de Chichaoua;Énergie Renouvelable;3195592;Suspendu;28;2022-04-07;2024-02-05
+PRJ-2024282;Réhabilitation de un collège de proximité;Province de Rehamna;Éducation & Formation;4247789;Appel d'Offres;0;2024-09-19;2025-01-29
+PRJ-2024283;Aménagement de un centre culturel;Préfecture de Marrakech;Tourisme & Artisanat;4781884;En Étude;0;2023-10-01;2024-03-27
+PRJ-2024284;Étude technique pour un collège de proximité;Province de Chichaoua;Éducation & Formation;4604310;En Retard;60;2024-09-11;2026-08-24
+PRJ-2024285;Construction de la route provinciale;Province d'El Kelâa des Sraghna;Agriculture Solidaire;1729138;En Retard;77;2024-03-07;2025-05-28
+PRJ-2024286;Aménagement de la route provinciale;Province d'El Kelâa des Sraghna;Agriculture Solidaire;2340177;Suspendu;61;2023-01-25;2024-05-17
+PRJ-2024287;Équipement de un système d'alimentation en eau potable (Douar 22);Province de Safi;Eau & Assainissement;9720164;En Cours;63;2023-02-11;2023-10-19
+PRJ-2024288;Aménagement de la route RP-8696;Province de Safi;Infrastructure Routière;32218191;Suspendu;31;2024-08-22;2026-08-08
+PRJ-2024289;Aménagement de un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;1383453;En Cours;74;2024-02-01;2025-10-15
+PRJ-2024290;Étude technique pour un réseau d'eau potable;Province de Safi;Énergie Renouvelable;3380177;Achevé;100;2023-01-30;2023-11-14
+PRJ-2024291;Réhabilitation de un collège de proximité;Province d'Essaouira;Éducation & Formation;2927491;En Étude;0;2024-04-11;2025-09-11
+PRJ-2024292;Réhabilitation de un centre de santé;Province de Rehamna;Tourisme & Artisanat;2540650;Appel d'Offres;0;2022-09-21;2023-09-13
+PRJ-2024293;Réhabilitation de un système d'alimentation en eau potable (Douar 34);Province d'Essaouira;Eau & Assainissement;27958052;Achevé;100;2022-06-15;2023-08-10
+PRJ-2024294;Construction de la route provinciale;Province d'Al Haouz;Énergie Renouvelable;1705569;Suspendu;54;2022-05-20;2024-03-27
+PRJ-2024295;Réhabilitation de un barrage collinaire;Province d'Essaouira;Santé;4298648;En Étude;0;2023-10-14;2025-10-13
+PRJ-2024296;Aménagement de la route provinciale;Province de Rehamna;Santé;2863304;En Étude;0;2022-07-07;2023-09-19
+PRJ-2024297;Équipement de un barrage collinaire;Province d'Al Haouz;Tourisme & Artisanat;2700886;En Retard;31;2022-03-05;2024-01-23
+PRJ-2024298;Réhabilitation de un collège de proximité;Province de Rehamna;Éducation & Formation;1584110;En Étude;0;2023-03-28;2023-12-18
+PRJ-2024299;Réhabilitation de un système d'alimentation en eau potable (Douar 33);Province d'Al Haouz;Eau & Assainissement;43034676;Achevé;100;2023-01-15;2024-11-25
+PRJ-2024300;Équipement de la route RP-5036;Province d'Essaouira;Infrastructure Routière;24849544;Suspendu;67;2024-07-17;2025-07-23
+PRJ-2024301;Réhabilitation de un système d'alimentation en eau potable (Douar 37);Province de Safi;Eau & Assainissement;24973588;Suspendu;31;2022-08-06;2024-08-03
+PRJ-2024302;Étude technique pour un centre de santé;Préfecture de Marrakech;Tourisme & Artisanat;4285333;Suspendu;83;2024-07-05;2026-01-03
+PRJ-2024303;Aménagement de un centre de santé;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;2354051;En Étude;0;2023-10-28;2024-09-26
+PRJ-2024304;Construction de un système d'alimentation en eau potable (Douar 27);Province d'El Kelâa des Sraghna;Eau & Assainissement;28283364;Achevé;100;2023-08-28;2024-12-31
+PRJ-2024305;Aménagement de une école communale;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;3875819;En Étude;0;2022-07-30;2023-11-01
+PRJ-2024306;Étude technique pour un réseau d'eau potable;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;1740157;En Cours;89;2023-04-03;2024-06-18
+PRJ-2024307;Aménagement de un barrage collinaire;Province d'Al Haouz;Tourisme & Artisanat;2360429;Appel d'Offres;0;2023-02-24;2023-12-27
+PRJ-2024308;Réhabilitation de un système d'alimentation en eau potable (Douar 20);Province de Youssoufia;Eau & Assainissement;27041150;Achevé;100;2023-06-13;2024-11-13
+PRJ-2024309;Équipement de un centre de santé;Province de Safi;Santé;3072809;En Retard;44;2022-09-30;2023-01-16
+PRJ-2024310;Étude technique pour un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;3443669;Appel d'Offres;0;2024-08-06;2026-06-30
+PRJ-2024311;Équipement de un centre culturel;Province de Safi;Tourisme & Artisanat;2989441;En Cours;71;2023-09-24;2024-08-29
+PRJ-2024312;Équipement de une école communale;Province de Safi;Santé;1920998;Suspendu;25;2022-04-11;2023-01-17
+PRJ-2024313;Réhabilitation de la route RP-3044;Province de Youssoufia;Infrastructure Routière;4402599;Suspendu;23;2024-03-19;2024-10-08
+PRJ-2024314;Réhabilitation de une école communale;Province de Youssoufia;Tourisme & Artisanat;1450633;Suspendu;49;2023-06-09;2024-04-01
+PRJ-2024315;Étude technique pour un système d'alimentation en eau potable (Douar 16);Préfecture de Marrakech;Eau & Assainissement;31783501;En Retard;73;2022-09-25;2023-04-12
+PRJ-2024316;Étude technique pour un système d'alimentation en eau potable (Douar 39);Province de Youssoufia;Eau & Assainissement;40270704;En Étude;0;2022-01-02;2023-05-20
+PRJ-2024317;Équipement de une école communale;Province d'Al Haouz;Agriculture Solidaire;4175520;En Cours;30;2023-02-26;2024-06-25
+PRJ-2024318;Étude technique pour un barrage collinaire;Province de Chichaoua;Santé;2341733;En Étude;0;2022-09-23;2023-05-15
+PRJ-2024319;Construction de un réseau d'eau potable;Province de Safi;Tourisme & Artisanat;1999136;En Étude;0;2023-12-18;2024-10-30
+PRJ-2024320;Étude technique pour un collège de proximité;Province de Youssoufia;Éducation & Formation;4581276;En Retard;68;2023-09-27;2024-10-13
+PRJ-2024321;Aménagement de un centre culturel;Province d'Al Haouz;Santé;951213;En Cours;70;2022-08-31;2023-11-23
+PRJ-2024322;Étude technique pour une école communale;Province de Chichaoua;Tourisme & Artisanat;1356855;Suspendu;17;2024-02-24;2024-09-14
+PRJ-2024323;Aménagement de un système d'alimentation en eau potable (Douar 35);Province d'El Kelâa des Sraghna;Eau & Assainissement;25366699;En Étude;0;2024-03-25;2024-08-29
+PRJ-2024324;Équipement de un barrage collinaire;Province de Safi;Énergie Renouvelable;4922225;En Cours;39;2024-01-11;2024-09-16
+PRJ-2024325;Équipement de un barrage collinaire;Province d'Al Haouz;Tourisme & Artisanat;612193;Appel d'Offres;0;2023-09-29;2025-07-27
+PRJ-2024326;Équipement de la route provinciale;Province d'El Kelâa des Sraghna;Agriculture Solidaire;4861440;Suspendu;85;2022-06-13;2023-07-07
+PRJ-2024327;Équipement de un centre de santé;Province d'El Kelâa des Sraghna;Santé;3102262;Appel d'Offres;0;2022-04-09;2023-06-28
+PRJ-2024328;Étude technique pour un collège de proximité;Province d'Al Haouz;Éducation & Formation;4567132;En Cours;91;2022-06-30;2023-11-23
+PRJ-2024329;Équipement de un système d'alimentation en eau potable (Douar 28);Province de Safi;Eau & Assainissement;43299201;En Retard;48;2023-04-09;2024-02-11
+PRJ-2024330;Équipement de la route provinciale;Province de Safi;Santé;2413013;Achevé;100;2023-12-07;2024-04-01
+PRJ-2024331;Construction de un centre culturel;Province de Rehamna;Agriculture Solidaire;3681365;Suspendu;89;2023-03-22;2023-11-20
+PRJ-2024332;Équipement de un barrage collinaire;Province d'Essaouira;Agriculture Solidaire;2891680;Suspendu;38;2023-09-24;2025-07-25
+PRJ-2024333;Équipement de un réseau d'eau potable;Province d'El Kelâa des Sraghna;Santé;4767530;Appel d'Offres;0;2023-02-12;2024-04-01
+PRJ-2024334;Construction de un collège de proximité;Province de Rehamna;Éducation & Formation;2617050;En Retard;70;2023-04-30;2024-12-20
+PRJ-2024335;Construction de la route RP-7371;Province de Youssoufia;Infrastructure Routière;18417957;Appel d'Offres;0;2024-07-07;2026-01-07
+PRJ-2024336;Étude technique pour un collège de proximité;Préfecture de Marrakech;Éducation & Formation;3609652;En Étude;0;2022-06-16;2023-02-02
+PRJ-2024337;Aménagement de la route provinciale;Province de Rehamna;Santé;3847571;Appel d'Offres;0;2022-05-04;2024-02-06
+PRJ-2024338;Équipement de la route RP-9692;Province de Rehamna;Infrastructure Routière;20982908;En Étude;0;2022-04-28;2023-09-02
+PRJ-2024339;Étude technique pour un centre de santé;Province de Youssoufia;Tourisme & Artisanat;857118;Achevé;100;2022-11-27;2024-07-26
+PRJ-2024340;Aménagement de un collège de proximité;Province d'Essaouira;Éducation & Formation;4435046;Suspendu;78;2022-05-07;2023-01-24
+PRJ-2024341;Construction de la route provinciale;Province d'Essaouira;Santé;2005426;En Retard;61;2022-06-24;2024-06-14
+PRJ-2024342;Équipement de un collège de proximité;Province de Safi;Éducation & Formation;1676236;Appel d'Offres;0;2023-05-17;2023-08-31
+PRJ-2024343;Étude technique pour une école communale;Province de Rehamna;Agriculture Solidaire;1865491;Appel d'Offres;0;2024-06-21;2025-04-20
+PRJ-2024344;Étude technique pour un système d'alimentation en eau potable (Douar 12);Préfecture de Marrakech;Eau & Assainissement;34769361;En Retard;30;2023-03-25;2024-06-01
+PRJ-2024345;Étude technique pour un système d'alimentation en eau potable (Douar 20);Province d'El Kelâa des Sraghna;Eau & Assainissement;49134493;En Étude;0;2022-12-20;2023-09-15
+PRJ-2024346;Construction de un réseau d'eau potable;Province de Youssoufia;Énergie Renouvelable;2653245;Achevé;100;2022-10-05;2023-02-11
+PRJ-2024347;Construction de un centre culturel;Province de Chichaoua;Tourisme & Artisanat;3010977;Appel d'Offres;0;2023-08-12;2025-05-09
+PRJ-2024348;Équipement de un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;2285954;Achevé;100;2023-12-05;2024-05-27
+PRJ-2024349;Construction de un centre culturel;Province de Youssoufia;Tourisme & Artisanat;2988565;Achevé;100;2023-12-05;2025-10-30
+PRJ-2024350;Réhabilitation de une école communale;Province d'El Kelâa des Sraghna;Santé;3544476;En Étude;0;2024-07-29;2025-07-21
+PRJ-2024351;Étude technique pour la route provinciale;Province d'Essaouira;Santé;1058486;Suspendu;71;2023-09-25;2024-04-29
+PRJ-2024352;Étude technique pour une école communale;Province d'Al Haouz;Tourisme & Artisanat;2749510;En Cours;45;2023-10-10;2024-08-10
+PRJ-2024353;Construction de la route provinciale;Province de Chichaoua;Tourisme & Artisanat;3834015;En Retard;72;2022-03-27;2023-10-12
+PRJ-2024354;Équipement de un barrage collinaire;Province de Rehamna;Énergie Renouvelable;3881305;Achevé;100;2023-06-17;2025-01-31
+PRJ-2024355;Aménagement de la route RP-9471;Province d'Essaouira;Infrastructure Routière;12277656;Suspendu;86;2022-07-24;2024-07-21
+PRJ-2024356;Étude technique pour un système d'alimentation en eau potable (Douar 25);Province de Safi;Eau & Assainissement;25862011;En Cours;48;2023-11-27;2024-04-21
+PRJ-2024357;Réhabilitation de un collège de proximité;Province de Youssoufia;Éducation & Formation;4510003;Suspendu;32;2023-11-03;2024-09-25
+PRJ-2024358;Étude technique pour un système d'alimentation en eau potable (Douar 7);Province de Youssoufia;Eau & Assainissement;48014693;Achevé;100;2024-08-16;2025-04-18
+PRJ-2024359;Étude technique pour un système d'alimentation en eau potable (Douar 14);Province de Chichaoua;Eau & Assainissement;26272432;En Retard;49;2022-11-04;2024-03-31
+PRJ-2024360;Équipement de une école communale;Province d'Al Haouz;Énergie Renouvelable;3044650;En Étude;0;2024-05-08;2026-04-10
+PRJ-2024361;Construction de la route RP-1087;Province de Rehamna;Infrastructure Routière;31926772;Appel d'Offres;0;2023-05-03;2024-07-29
+PRJ-2024362;Réhabilitation de un collège de proximité;Préfecture de Marrakech;Éducation & Formation;4163155;Achevé;100;2023-08-01;2025-07-18
+PRJ-2024363;Aménagement de un centre de santé;Province de Rehamna;Énergie Renouvelable;2623931;En Retard;20;2024-07-08;2025-06-18
+PRJ-2024364;Équipement de un barrage collinaire;Province d'El Kelâa des Sraghna;Énergie Renouvelable;2290906;En Étude;0;2024-09-01;2026-07-06
+PRJ-2024365;Équipement de la route provinciale;Province d'Essaouira;Tourisme & Artisanat;2182840;Achevé;100;2024-08-10;2024-11-30
+PRJ-2024366;Équipement de un barrage collinaire;Province de Rehamna;Tourisme & Artisanat;3699958;En Cours;24;2022-08-06;2023-04-28
+PRJ-2024367;Réhabilitation de un réseau d'eau potable;Province d'Essaouira;Tourisme & Artisanat;2397250;Appel d'Offres;0;2022-08-30;2022-12-28
+PRJ-2024368;Aménagement de la route RP-8876;Province de Chichaoua;Infrastructure Routière;2029061;Appel d'Offres;0;2023-06-03;2024-02-18
+PRJ-2024369;Étude technique pour un système d'alimentation en eau potable (Douar 1);Province d'Al Haouz;Eau & Assainissement;47988208;Achevé;100;2022-02-01;2022-07-16
+PRJ-2024370;Construction de un centre de santé;Province de Youssoufia;Tourisme & Artisanat;3115437;En Cours;76;2024-07-24;2025-10-23
+PRJ-2024371;Construction de une école communale;Province de Chichaoua;Énergie Renouvelable;1416169;Appel d'Offres;0;2022-01-19;2023-04-21
+PRJ-2024372;Réhabilitation de un système d'alimentation en eau potable (Douar 15);Province de Rehamna;Eau & Assainissement;35964624;Suspendu;14;2023-08-20;2025-04-27
+PRJ-2024373;Aménagement de un centre culturel;Préfecture de Marrakech;Tourisme & Artisanat;3835169;En Cours;20;2022-07-21;2023-09-25
+PRJ-2024374;Réhabilitation de un centre culturel;Province d'El Kelâa des Sraghna;Énergie Renouvelable;3017403;En Cours;54;2023-07-16;2024-05-16
+PRJ-2024375;Construction de la route RP-9867;Province d'El Kelâa des Sraghna;Infrastructure Routière;9168617;Suspendu;35;2022-07-22;2024-05-20
+PRJ-2024376;Réhabilitation de un réseau d'eau potable;Préfecture de Marrakech;Tourisme & Artisanat;2828855;En Retard;56;2022-08-28;2023-09-11
+PRJ-2024377;Aménagement de la route RP-2240;Province d'El Kelâa des Sraghna;Infrastructure Routière;21563449;Achevé;100;2023-11-15;2025-02-24
+PRJ-2024378;Équipement de un centre de santé;Province de Chichaoua;Énergie Renouvelable;1729996;Suspendu;10;2022-09-14;2023-09-04
+PRJ-2024379;Aménagement de un collège de proximité;Province de Chichaoua;Éducation & Formation;3607959;En Étude;0;2022-09-30;2023-07-11
+PRJ-2024380;Étude technique pour la route provinciale;Préfecture de Marrakech;Tourisme & Artisanat;2659463;En Étude;0;2023-06-04;2023-10-02
+PRJ-2024381;Étude technique pour un réseau d'eau potable;Province de Youssoufia;Tourisme & Artisanat;4929737;En Cours;33;2023-04-18;2023-07-27
+PRJ-2024382;Aménagement de la route RP-4686;Province de Chichaoua;Infrastructure Routière;8474993;En Étude;0;2022-08-19;2024-04-28
+PRJ-2024383;Réhabilitation de un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;1814910;En Cours;56;2024-03-02;2025-04-21
+PRJ-2024384;Équipement de un collège de proximité;Province de Youssoufia;Éducation & Formation;4194134;En Étude;0;2022-04-21;2023-09-08
+PRJ-2024385;Réhabilitation de un collège de proximité;Préfecture de Marrakech;Éducation & Formation;3362876;En Étude;0;2023-03-26;2024-09-21
+PRJ-2024386;Réhabilitation de un réseau d'eau potable;Province de Youssoufia;Agriculture Solidaire;4797633;Appel d'Offres;0;2024-08-21;2025-03-03
+PRJ-2024387;Équipement de un collège de proximité;Province de Safi;Éducation & Formation;4735446;Appel d'Offres;0;2023-01-02;2024-09-13
+PRJ-2024388;Équipement de un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;3482894;En Retard;44;2024-07-21;2026-07-12
+PRJ-2024389;Aménagement de un collège de proximité;Province d'Al Haouz;Éducation & Formation;4238458;En Cours;85;2024-06-20;2025-08-02
+PRJ-2024390;Réhabilitation de un système d'alimentation en eau potable (Douar 15);Province de Safi;Eau & Assainissement;37835857;Suspendu;36;2024-02-09;2025-04-20
+PRJ-2024391;Réhabilitation de un barrage collinaire;Province de Youssoufia;Tourisme & Artisanat;1714244;Appel d'Offres;0;2022-05-16;2022-09-17
+PRJ-2024392;Équipement de un collège de proximité;Province d'Essaouira;Éducation & Formation;741551;Achevé;100;2022-12-08;2024-08-21
+PRJ-2024393;Construction de un centre culturel;Province d'Essaouira;Santé;2684241;En Retard;32;2022-08-06;2023-10-31
+PRJ-2024394;Réhabilitation de un barrage collinaire;Province de Youssoufia;Tourisme & Artisanat;1590346;Appel d'Offres;0;2023-08-29;2025-01-12
+PRJ-2024395;Construction de un réseau d'eau potable;Province de Safi;Énergie Renouvelable;1399448;Suspendu;74;2023-07-06;2024-03-26
+PRJ-2024396;Construction de un centre de santé;Province d'El Kelâa des Sraghna;Santé;3981963;En Cours;26;2024-09-25;2025-03-25
+PRJ-2024397;Réhabilitation de un système d'alimentation en eau potable (Douar 39);Province de Safi;Eau & Assainissement;15202025;En Étude;0;2023-03-08;2025-02-28
+PRJ-2024398;Étude technique pour un barrage collinaire;Province d'El Kelâa des Sraghna;Agriculture Solidaire;3564803;Appel d'Offres;0;2022-06-05;2022-10-22
+PRJ-2024399;Étude technique pour un collège de proximité;Préfecture de Marrakech;Éducation & Formation;989419;En Cours;57;2023-10-26;2024-05-13
+PRJ-2024400;Étude technique pour la route RP-3717;Province d'Essaouira;Infrastructure Routière;45446393;Appel d'Offres;0;2022-09-03;2023-10-26
+PRJ-2024401;Équipement de une école communale;Province de Rehamna;Tourisme & Artisanat;4310764;Achevé;100;2022-07-09;2023-01-30
+PRJ-2024402;Construction de un centre culturel;Province d'Essaouira;Agriculture Solidaire;2924289;Suspendu;68;2023-07-20;2024-01-21
+PRJ-2024403;Aménagement de un système d'alimentation en eau potable (Douar 39);Province de Safi;Eau & Assainissement;32956473;En Étude;0;2024-02-29;2024-06-14
+PRJ-2024404;Équipement de la route RP-6567;Province de Chichaoua;Infrastructure Routière;25032749;Suspendu;30;2024-09-05;2025-12-14
+PRJ-2024405;Réhabilitation de un centre culturel;Province d'El Kelâa des Sraghna;Énergie Renouvelable;1734481;En Retard;57;2024-07-08;2025-08-12
+PRJ-2024406;Réhabilitation de un système d'alimentation en eau potable (Douar 37);Province d'El Kelâa des Sraghna;Eau & Assainissement;39750872;En Cours;37;2024-03-08;2025-01-07
+PRJ-2024407;Aménagement de la route RP-1082;Province d'El Kelâa des Sraghna;Infrastructure Routière;37429935;En Retard;17;2024-06-22;2026-06-19
+PRJ-2024408;Aménagement de la route RP-3139;Préfecture de Marrakech;Infrastructure Routière;35527012;Appel d'Offres;0;2023-09-26;2023-12-25
+PRJ-2024409;Réhabilitation de un centre de santé;Province d'Essaouira;Énergie Renouvelable;3546699;Suspendu;78;2023-07-15;2025-02-19
+PRJ-2024410;Réhabilitation de un centre culturel;Préfecture de Marrakech;Agriculture Solidaire;528725;Achevé;100;2024-07-31;2025-09-26
+PRJ-2024411;Étude technique pour un système d'alimentation en eau potable (Douar 47);Préfecture de Marrakech;Eau & Assainissement;4143352;Achevé;100;2022-06-28;2023-11-23
+PRJ-2024412;Aménagement de la route RP-4318;Province d'Essaouira;Infrastructure Routière;4181684;Appel d'Offres;0;2022-09-22;2024-07-19
+PRJ-2024413;Réhabilitation de un collège de proximité;Province de Rehamna;Éducation & Formation;1902161;Achevé;100;2024-03-14;2024-06-13
+PRJ-2024414;Construction de un centre de santé;Province d'El Kelâa des Sraghna;Agriculture Solidaire;2398786;Achevé;100;2022-06-26;2023-02-20
+PRJ-2024415;Étude technique pour un barrage collinaire;Province de Youssoufia;Agriculture Solidaire;4553226;En Retard;69;2022-09-26;2024-02-17
+PRJ-2024416;Étude technique pour un centre de santé;Préfecture de Marrakech;Tourisme & Artisanat;4369221;Suspendu;18;2023-08-20;2025-05-15
+PRJ-2024417;Construction de la route RP-7251;Préfecture de Marrakech;Infrastructure Routière;27691124;Suspendu;79;2023-05-07;2024-04-05
+PRJ-2024418;Équipement de un collège de proximité;Province de Chichaoua;Éducation & Formation;1134978;En Étude;0;2022-12-17;2024-07-23
+PRJ-2024419;Réhabilitation de un réseau d'eau potable;Province d'Al Haouz;Agriculture Solidaire;2851661;En Retard;74;2024-04-05;2024-11-11
+PRJ-2024420;Aménagement de un centre culturel;Province de Chichaoua;Santé;930842;En Cours;46;2024-04-13;2026-01-09
+PRJ-2024421;Réhabilitation de un système d'alimentation en eau potable (Douar 5);Préfecture de Marrakech;Eau & Assainissement;37537171;Suspendu;90;2023-12-21;2024-12-16
+PRJ-2024422;Étude technique pour un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;3546810;Achevé;100;2022-04-15;2022-10-17
+PRJ-2024423;Équipement de un centre culturel;Province de Rehamna;Agriculture Solidaire;1266250;Appel d'Offres;0;2023-12-30;2024-09-07
+PRJ-2024424;Réhabilitation de un système d'alimentation en eau potable (Douar 33);Province de Chichaoua;Eau & Assainissement;35572626;En Étude;0;2023-02-10;2024-05-09
+PRJ-2024425;Aménagement de un collège de proximité;Province d'El Kelâa des Sraghna;Éducation & Formation;3227233;Achevé;100;2023-12-14;2024-09-23
+PRJ-2024426;Étude technique pour un réseau d'eau potable;Préfecture de Marrakech;Énergie Renouvelable;3555864;Suspendu;68;2022-11-28;2023-10-09
+PRJ-2024427;Construction de la route provinciale;Préfecture de Marrakech;Santé;3862508;Suspendu;21;2023-09-27;2025-05-18
+PRJ-2024428;Étude technique pour un système d'alimentation en eau potable (Douar 35);Province de Safi;Eau & Assainissement;32014401;En Étude;0;2023-07-11;2025-01-07
+PRJ-2024429;Réhabilitation de la route RP-9485;Préfecture de Marrakech;Infrastructure Routière;28163577;Appel d'Offres;0;2024-02-28;2025-09-02
+PRJ-2024430;Aménagement de une école communale;Préfecture de Marrakech;Santé;830140;Appel d'Offres;0;2023-11-20;2025-06-30
+PRJ-2024431;Réhabilitation de un centre culturel;Province de Rehamna;Tourisme & Artisanat;874716;Appel d'Offres;0;2024-01-23;2024-05-16
+PRJ-2024432;Réhabilitation de un réseau d'eau potable;Province d'Al Haouz;Agriculture Solidaire;4430229;En Cours;56;2022-11-07;2023-08-20
+PRJ-2024433;Équipement de un système d'alimentation en eau potable (Douar 2);Province d'Al Haouz;Eau & Assainissement;39343132;Appel d'Offres;0;2022-08-29;2024-03-26
+PRJ-2024434;Étude technique pour un système d'alimentation en eau potable (Douar 16);Province de Youssoufia;Eau & Assainissement;2334327;Suspendu;36;2022-08-26;2022-12-01
+PRJ-2024435;Réhabilitation de un centre culturel;Province d'Al Haouz;Santé;2389489;En Cours;67;2023-03-25;2023-08-27
+PRJ-2024436;Étude technique pour un centre culturel;Province d'Essaouira;Agriculture Solidaire;3100283;En Étude;0;2023-02-16;2024-02-09
+PRJ-2024437;Réhabilitation de un barrage collinaire;Province de Rehamna;Tourisme & Artisanat;4360642;En Cours;77;2024-09-22;2025-03-15
+PRJ-2024438;Aménagement de un centre culturel;Préfecture de Marrakech;Tourisme & Artisanat;1006180;Achevé;100;2023-11-20;2025-10-04
+PRJ-2024439;Aménagement de un collège de proximité;Province de Chichaoua;Éducation & Formation;4090002;En Étude;0;2023-07-13;2023-10-13
+PRJ-2024440;Aménagement de un barrage collinaire;Province de Rehamna;Santé;4021409;Suspendu;76;2024-07-14;2025-02-24
+PRJ-2024441;Construction de une école communale;Province d'Essaouira;Énergie Renouvelable;2234962;En Cours;62;2023-12-12;2025-12-04
+PRJ-2024442;Construction de un centre culturel;Province d'Al Haouz;Santé;3984736;Achevé;100;2023-05-26;2024-01-20
+PRJ-2024443;Étude technique pour un centre de santé;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;1424706;En Étude;0;2023-06-24;2023-11-13
+PRJ-2024444;Étude technique pour un collège de proximité;Province d'Essaouira;Éducation & Formation;4804011;En Étude;0;2023-09-28;2024-11-28
+PRJ-2024445;Réhabilitation de la route RP-2234;Province de Rehamna;Infrastructure Routière;39939379;Suspendu;32;2022-06-17;2023-08-09
+PRJ-2024446;Équipement de un collège de proximité;Province de Youssoufia;Éducation & Formation;4003404;Suspendu;33;2023-04-28;2023-08-03
+PRJ-2024447;Aménagement de la route provinciale;Province de Youssoufia;Tourisme & Artisanat;1598852;Suspendu;69;2022-11-04;2023-12-04
+PRJ-2024448;Construction de la route RP-2662;Préfecture de Marrakech;Infrastructure Routière;41086879;En Cours;83;2022-02-01;2023-05-28
+PRJ-2024449;Équipement de un centre culturel;Province d'Essaouira;Agriculture Solidaire;4803670;Achevé;100;2023-12-08;2024-06-07
+PRJ-2024450;Aménagement de un système d'alimentation en eau potable (Douar 11);Province de Chichaoua;Eau & Assainissement;28831812;Suspendu;37;2022-10-15;2024-08-19
+PRJ-2024451;Étude technique pour un réseau d'eau potable;Province de Chichaoua;Santé;3697364;Suspendu;16;2022-12-03;2023-05-15
+PRJ-2024452;Aménagement de un système d'alimentation en eau potable (Douar 13);Province d'Essaouira;Eau & Assainissement;8046220;En Cours;18;2023-04-12;2024-11-05
+PRJ-2024453;Équipement de un réseau d'eau potable;Province de Chichaoua;Énergie Renouvelable;4094160;Appel d'Offres;0;2023-03-21;2023-08-25
+PRJ-2024454;Étude technique pour un système d'alimentation en eau potable (Douar 37);Province d'Essaouira;Eau & Assainissement;19315896;Achevé;100;2023-10-20;2025-09-22
+PRJ-2024455;Équipement de la route RP-6099;Province de Rehamna;Infrastructure Routière;35882599;Appel d'Offres;0;2022-01-18;2023-09-16
+PRJ-2024456;Étude technique pour un collège de proximité;Province de Rehamna;Éducation & Formation;4871943;En Retard;75;2022-10-22;2024-09-23
+PRJ-2024457;Aménagement de un réseau d'eau potable;Province de Youssoufia;Tourisme & Artisanat;2342675;Suspendu;21;2023-06-20;2025-02-05
+PRJ-2024458;Équipement de la route provinciale;Province de Safi;Agriculture Solidaire;1415255;Achevé;100;2023-08-01;2025-06-30
+PRJ-2024459;Aménagement de un centre de santé;Province de Safi;Santé;2309086;Suspendu;50;2022-03-01;2022-06-30
+PRJ-2024460;Construction de un collège de proximité;Province de Youssoufia;Éducation & Formation;4666440;En Étude;0;2022-06-18;2024-03-20
+PRJ-2024461;Aménagement de un système d'alimentation en eau potable (Douar 2);Province de Rehamna;Eau & Assainissement;2510464;En Étude;0;2023-04-22;2025-03-09
+PRJ-2024462;Étude technique pour la route RP-5014;Province de Rehamna;Infrastructure Routière;19214954;En Cours;84;2023-05-29;2024-10-21
+PRJ-2024463;Équipement de un réseau d'eau potable;Province d'El Kelâa des Sraghna;Énergie Renouvelable;1356756;Achevé;100;2024-01-14;2025-04-10
+PRJ-2024464;Construction de un réseau d'eau potable;Province de Safi;Agriculture Solidaire;1085938;En Cours;43;2023-12-03;2024-07-09
+PRJ-2024465;Étude technique pour la route provinciale;Province d'El Kelâa des Sraghna;Agriculture Solidaire;1681077;En Cours;38;2024-05-28;2026-05-12
+PRJ-2024466;Réhabilitation de un système d'alimentation en eau potable (Douar 20);Province d'El Kelâa des Sraghna;Eau & Assainissement;39699963;Suspendu;15;2023-04-02;2023-11-30
+PRJ-2024467;Construction de un collège de proximité;Province de Youssoufia;Éducation & Formation;1037989;Appel d'Offres;0;2022-08-01;2024-01-27
+PRJ-2024468;Réhabilitation de un centre de santé;Province d'Essaouira;Agriculture Solidaire;3441848;En Cours;36;2024-07-21;2025-02-28
+PRJ-2024469;Construction de une école communale;Province d'Al Haouz;Santé;1554576;En Retard;67;2023-10-11;2024-06-22
+PRJ-2024470;Aménagement de un centre de santé;Province d'El Kelâa des Sraghna;Tourisme & Artisanat;3699439;En Étude;0;2022-07-05;2023-02-01
+PRJ-2024471;Étude technique pour un système d'alimentation en eau potable (Douar 7);Préfecture de Marrakech;Eau & Assainissement;33204612;En Cours;90;2023-09-07;2025-06-03
+PRJ-2024472;Réhabilitation de un réseau d'eau potable;Province d'El Kelâa des Sraghna;Santé;1065602;Achevé;100;2022-09-13;2023-04-24
+PRJ-2024473;Construction de un collège de proximité;Province de Chichaoua;Éducation & Formation;1106735;En Cours;11;2023-03-03;2023-09-29
+PRJ-2024474;Équipement de la route provinciale;Province de Chichaoua;Agriculture Solidaire;2313570;En Étude;0;2024-06-02;2026-02-22
+PRJ-2024475;Aménagement de un centre de santé;Province d'Al Haouz;Énergie Renouvelable;501099;En Étude;0;2023-03-29;2024-10-09
+PRJ-2024476;Équipement de un collège de proximité;Province de Safi;Éducation & Formation;3832034;En Cours;42;2022-01-04;2023-11-27
+PRJ-2024477;Aménagement de un système d'alimentation en eau potable (Douar 23);Province de Youssoufia;Eau & Assainissement;47110654;Suspendu;21;2024-08-26;2025-07-09
+PRJ-2024478;Construction de un collège de proximité;Préfecture de Marrakech;Éducation & Formation;2987917;Appel d'Offres;0;2022-11-21;2024-10-15
+PRJ-2024479;Construction de la route RP-4207;Province de Chichaoua;Infrastructure Routière;10434773;En Cours;40;2024-08-08;2025-06-21
+PRJ-2024480;Construction de la route RP-9734;Province de Rehamna;Infrastructure Routière;17767780;En Retard;30;2023-12-18;2025-05-23
+PRJ-2024481;Équipement de un système d'alimentation en eau potable (Douar 17);Province d'Essaouira;Eau & Assainissement;22254434;Appel d'Offres;0;2023-07-09;2025-01-20
+PRJ-2024482;Construction de un collège de proximité;Province d'Essaouira;Éducation & Formation;4562654;En Cours;88;2022-07-23;2024-02-22
+PRJ-2024483;Étude technique pour un réseau d'eau potable;Province d'El Kelâa des Sraghna;Santé;1647940;Achevé;100;2024-01-27;2024-08-30
+PRJ-2024484;Réhabilitation de un centre culturel;Province d'Essaouira;Santé;3155393;En Retard;95;2022-06-20;2023-05-20
+PRJ-2024485;Étude technique pour un réseau d'eau potable;Province de Chichaoua;Santé;774671;En Retard;91;2022-12-20;2023-10-24
+PRJ-2024486;Équipement de un collège de proximité;Province d'Al Haouz;Éducation & Formation;3707159;Achevé;100;2023-10-18;2024-03-08
+PRJ-2024487;Construction de la route provinciale;Province d'Al Haouz;Énergie Renouvelable;1172512;En Retard;74;2022-05-03;2023-12-14
+PRJ-2024488;Équipement de un réseau d'eau potable;Province de Chichaoua;Énergie Renouvelable;1090065;En Étude;0;2024-07-27;2026-03-05
+PRJ-2024489;Réhabilitation de la route RP-5818;Province d'Essaouira;Infrastructure Routière;40278722;Appel d'Offres;0;2024-05-28;2026-02-03
+PRJ-2024490;Aménagement de une école communale;Province de Chichaoua;Énergie Renouvelable;551933;Suspendu;85;2023-05-03;2024-12-18
+PRJ-2024491;Aménagement de un réseau d'eau potable;Province de Safi;Agriculture Solidaire;3308039;Appel d'Offres;0;2024-01-02;2025-04-08
+PRJ-2024492;Équipement de la route RP-5274;Province de Safi;Infrastructure Routière;43229267;En Cours;47;2022-01-05;2023-10-26
+PRJ-2024493;Aménagement de un centre de santé;Province d'Al Haouz;Agriculture Solidaire;3007850;En Retard;77;2022-09-26;2023-03-07
+PRJ-2024494;Aménagement de un collège de proximité;Province de Rehamna;Éducation & Formation;3500710;Achevé;100;2022-02-04;2023-03-16
+PRJ-2024495;Aménagement de un barrage collinaire;Province d'El Kelâa des Sraghna;Agriculture Solidaire;4685213;En Cours;20;2023-11-09;2024-06-19
+PRJ-2024496;Équipement de un centre culturel;Préfecture de Marrakech;Énergie Renouvelable;1965837;En Retard;73;2022-06-24;2023-05-23
+PRJ-2024497;Étude technique pour la route RP-2398;Province de Rehamna;Infrastructure Routière;8544920;Suspendu;47;2024-06-30;2025-11-01
+PRJ-2024498;Aménagement de la route RP-1666;Province d'Essaouira;Infrastructure Routière;31704448;Appel d'Offres;0;2023-06-20;2024-12-24
+PRJ-2024499;Réhabilitation de un centre culturel;Province de Safi;Énergie Renouvelable;860621;Suspendu;35;2022-11-06;2023-02-09
